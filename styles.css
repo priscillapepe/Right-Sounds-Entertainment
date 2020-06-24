@@ -1,5 +1,6 @@
 *{
     background-color: ivory;
+   
 }
 
 h1 {
@@ -33,13 +34,14 @@ td {
     border: 1px solid black;
     border-collapse: collapse;
 }
-image1,image2,image3,image4 {
-    display:flex;
-    flex-direction:row;
-}
+
 footer{
     text-decoration: none;
     text-align: center;
     background-color: whitesmoke;
     color: goldenrod;
+}
+
+img{
+    padding-left: 40px;
 }
